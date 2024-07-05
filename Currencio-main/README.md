@@ -12,6 +12,6 @@ The project consists of a GUI (Graphical User Interface) developed using Java Sw
 To run the Currency Converter project, follow these steps:
 * Clone or download the project repository.
 * Open the project in your preferred Java IDE.
-* Run the "Main.java" file to start the project.
+* Run the CurrencyConverterGUI.java file to start the project.
 * Enter the amount to convert, select the input and output currencies, and click the "Convert" button.
 
